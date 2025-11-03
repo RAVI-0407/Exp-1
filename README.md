@@ -11,36 +11,36 @@ The main problem is the need for a fast, secure, and automated system that allow
 
 ## Step 2: Requirement Analysis
 
-Identify user needs (customer, admin, staff).
-Define functional requirements: login, balance check, withdrawal, deposit, transfer, PIN change.
-Define non-functional requirements: speed, security, reliability, and usability.
+Identify user needs (customer, admin, staff).      
+Define functional requirements: login, balance check, withdrawal, deposit, transfer, PIN change.      
+Define non-functional requirements: speed, security, reliability, and usability.      
 
 ## Step 3: System Design
 
-Draw UML diagrams to represent the system:
-Use Case Diagram
-Class Diagram
-Activity Diagram
-Sequence Diagram
-Communication Diagram
-Package Diagram
-Design the database with tables for Customer, Account, and Transaction.
+Draw UML diagrams to represent the system:      
+Use Case Diagram      
+Class Diagram      
+Activity Diagram      
+Sequence Diagram      
+Communication Diagram      
+Package Diagram      
+Design the database with tables for Customer, Account, and Transaction.  
 
 ## Step 4: System Implementation
 
-Develop the front-end (ATM interface) using C / Java / Python / Web GUI.
-Connect the system to the bank database (MySQL/Oracle).
-Implement core functions:
-User authentication (Card & PIN)
-Cash withdrawal and deposit
-Fund transfer and balance update
-PIN change and mini statement
+Develop the front-end (ATM interface) using C / Java / Python / Web GUI.  
+Connect the system to the bank database (MySQL/Oracle).  
+Implement core functions:  
+User authentication (Card & PIN)    
+Cash withdrawal and deposit  
+Fund transfer and balance update    
+PIN change and mini statement  
 
 ## Step 5: Testing
 
-Test each module for correct operation.
-Validate transactions and error handling (e.g., insufficient balance, wrong PIN).
-Ensure secure data transmission between ATM and bank server.
+Test each module for correct operation.  
+Validate transactions and error handling (e.g., insufficient balance, wrong PIN).  
+Ensure secure data transmission between ATM and bank server.  
 
 # DIAGRAMS:
 
